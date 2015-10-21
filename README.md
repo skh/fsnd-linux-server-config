@@ -9,6 +9,10 @@ here. The application is running on:
   http://ec2-54-68-6-64.us-west-2.compute.amazonaws.com/
   IP address: 54.68.6.64
   SSH port: 22
+  
+Addendum: the server part of the README is now available in this repository as 
+README_server_part.md. If you are still working on this project, this file is
+full of spoilers!
 
 ## 1. The VM
 
